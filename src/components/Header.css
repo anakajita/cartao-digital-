@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 180px; 
+    background-color: #cd7edd; 
+}
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; 
+    object-fit: cover;
+    box-shadow: 0 4px 12px #00000033; 
+}
